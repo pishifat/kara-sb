@@ -1,0 +1,1 @@
+used to create the storyboard for https://osu.ppy.sh/beatmapsets/1362028#osu/2818157 because i don't know proper storyboarding techniques
